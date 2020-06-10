@@ -2,3 +2,8 @@
 https://www.javatpoint.com/hibernate-configuration
 hibernate configuration file
 https://www.journaldev.com/3633/hibernate-interview-questions-and-answers
+https://stackoverflow.com/questions/5993915/when-to-use-transactions-in-spring-with-hibernate
+spring boot hibernate
+spring with hibernate
+transaction becoz when we weant to execute multiple queries within atomicninit of work
+one to many many to one owning side mapped by join column
